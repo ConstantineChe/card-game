@@ -1,0 +1,1 @@
+{"version":3,"file":"\/Users\/konstantin\/.cljs\/.aot_cache\/1.10.339\/42AB11A\/devtools\/version.js","sources":["version.cljs"],"lineCount":9,"mappings":";AAAA;;AAGA,AAAKA,mCAAgB;AAErB,uCAAA,vCAAMC;AAAN,AACED","names":["devtools.version\/current-version","devtools.version\/get-current-version"]}
